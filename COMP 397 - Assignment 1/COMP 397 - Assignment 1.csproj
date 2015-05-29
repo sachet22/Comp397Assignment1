@@ -60,8 +60,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\images\446278_1352958639164_400_300.jpg" />
+    <Content Include="assets\images\73a92450c6d281f457334cabb09aa2b7.jpg" />
+    <Content Include="assets\images\by3fi6q--old-house-association-artists-interiors-design-twain-house.jpg" />
     <Content Include="assets\images\Dark_Forest.jpg" />
+    <Content Include="assets\images\Haunted-House-halloween-16050708-1280-800.jpg" />
     <Content Include="assets\images\Post-Apocalyptic-Wallpapers-April-2014-13-Zombies02.jpg" />
+    <Content Include="assets\images\zfoyer-a3-a.jpg" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
